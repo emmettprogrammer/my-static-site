@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="icon"
+		      href="images/real_smoke.ico">
+			<title>Mirage Smokes</title>
+			<meta charset="utf-8"/>
+			<meta name="viewport"
+			      content="width=device-width, initial-scale=1, user-scalable=no"/>
+			<link rel="stylesheet"
+			      href="assets/css/main.css"/>
+			<noscript>
+				<link rel="stylesheet"
+				      href="assets/css/noscript.css"/>
+			</noscript>
+		</head>
+		<body class="is-preload">
+			<div id="page-wrapper">
+				<section id="wrapper">
+					<header>
+						<div class="inner">
+							<a href="index.html" ><img src="images/white_smoke.png" style="float:left" alt="description" width="75" height="75"/></a>
+							<h2>Practice Your Smokes</h2>
+							<p>
+								<article>
+									The best way to practice throwing smokes is to hop into a casual match with no bots. First, enable console commands 
+									if you haven't done so already (Settings > Game > Enable developer console). Next, select "practice with bots" in the upper-left dropdown. 
+									Start a casual match with your map and select "no bots" in the upper-right hand corner. 
+								</article>
+							</p>
+							<div class="col-4">
+								<span class="image fit">
+									<img src="images/articles/start_game.png"
+									     alt=""/>
+								</span>
+							</div>
+							<p>
+								<article>
+									Pull up your console in-game by pressing "~". You can enter the following commands in this terminal.
+								</article>
+							</p>
+							<div class="col-4">
+								<span class="image fit">
+									<img src="images/articles/in_game_console.png"
+									     alt=""/>
+								</span>
+							</div>
+							<ul>
+								<p>
+									<li>
+										First, enable cheats.
+										<div class="col-4"
+											<pre>
+												<code>sv_cheats 1</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+								<p>
+									<li>
+										Bind noclip to a key. The key 'p' is used in the first example, but I like to use the side mouse button, so I use example 2.
+										<div class="col-4"
+											<pre>
+												<code>bind p "noclip"</code>
+											</pre>
+										</div>
+										<div class="col-4"
+											<pre>
+												<code>bind "mouse4" "noclip"</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+								<p>
+									<li>
+										Bind a key to give you smoke grenades. You can use any key but I use mouse5.
+										<div class="col-4"
+											<pre>
+												<code>bind "mouse_5" "give weapon_smokegrenade"</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+								<p>
+									<li>
+										Alternatively you can allow yourself you buy anywhere and give yourself a bunch of money.
+										<div class="col-4"
+											<pre>
+												<code>mp_buy_anywhere 1; mp_buytime 60000; mp_startmoney 65535; mp_restartgame 1;</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+								<p>
+									<li>
+										Finally, run this command to give yourself 60 minute rounds.
+										<div class="col-4"
+											<pre>
+												<code>mp_roundtime_defuse 60; mp_roundtime_hostage 60; mp_roundtime 60; mp_restartgame 1</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+							</ul>
+							<p>
+								<article>
+									All set! To find all CSGO commands, go <a href="https://totalcsgo.com/commands">here</a>.
+								</article>
+							</p>
+							<article>Some other useful commands:</article>
+							<ul>
+								<p>
+									<li>
+										Infinite ammo
+										<div class="col-4"
+											<pre>
+												<code>sv_infiniteammo 1</code>
+											</pre>
+										</div>
+									</li>
+									<li>
+										Change map to Nuke (for example)
+										<div class="col-4"
+											<pre>
+												<code>map de_nuke</code>
+											</pre>
+										</div>
+									</li>
+								</p>
+							</ul>
+						</div>
+					</header>
+				</section>
+			</div>
+		</body>
+	</html>
