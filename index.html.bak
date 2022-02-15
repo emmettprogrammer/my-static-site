@@ -35,8 +35,13 @@
 								</article>
 								<article>
 									<a href="dust2.html" class="image"><img src="images/dust2/dust2_thumbnail.jpeg" alt="" /></a>
-									<h3>Inferno</h3>
+									<h3>Dust2</h3>
 									<a href="dust2.html" class="special">View smokes</a>
+								</article>
+								<article>
+									<a href="cache.html" class="image"><img src="images/cache/cache_thumbnail.jpg" alt="" /></a>
+									<h3>Dust2</h3>
+									<a href="cache.html" class="special">View smokes</a>
 								</article>
 							</section>
 						</div>

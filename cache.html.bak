@@ -26,6 +26,36 @@
 							<li>
 								<a href="#mid-criss-cross">Mid criss-cross</a>
 							</li>
+							<li>
+								<a href="#a-cross">A cross</a>
+							</li>
+							<li>
+								<a href="#b-main-cross">B cross</a>
+							</li>
+							<li>
+								<a href="#sun-room-tree">Tree from sun room</a>
+							</li>
+							<li>
+								<a href="#alternative-tree">Alternative tree</a>
+							</li>
+							<li>
+								<a href="#heaven">Heaven</a>
+							</li>
+							<li>
+								<a href="#truck-a-main">A main from truck</a>
+							</li>
+							<li>
+								<a href="#fence-a-main">A main from fence</a>
+							</li>
+							<li>
+								<a href="#mid-garage">Mid garage</a>
+							</li>
+							<li>
+								<a href="#heaven-shallow-b-main">Shallow B main from heaven</a>
+							</li>
+							<li>
+								<a href="#heaven-checkers">Checkers from heaven</a>
+							</li>
 						</ul>
 					</div>
 				</header>
@@ -66,107 +96,112 @@
 					<div class="inner">
 						<h3 id="a-cross" class="major">A cross</h3>
 						<article>Go to A main and find this right-side corner here.</article>
-						<img src="images/cache/a-cross_1.png" width="1200" height="675"/>
+						<img src="images/cache/a_cross_1.png" width="1200" height="675"/>
 						<article><br>Go up against the wall and aim about here on the green box. Run forward briefly and normal throw.</article>
-						<img src="images/cache/a-cross_2.png" width="1200" height="675"/>
+						<img src="images/cache/a_cross_2.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/a-cross_final.png" width="1200" height="675"/>
+						<img src="images/cache/a_cross_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
-					<div class="b-main-cross">
-						<h3 id="z" class="major">B main cross</h3>
+					<div class="inner">
+						<h3 id="b-main-cross" class="major">B main cross</h3>
 						<article>Go to B main and find the wood pillar on the left side of this door.</article>
-						<img src="images/cache/b-main-cross_1.png" width="1200" height="675"/>
+						<img src="images/cache/b_main_cross_1.png" width="1200" height="675"/>
 						<article><br>Line up against this wood pillar.</article>
-						<img src="images/cache/b-main-cross_2.png" width="1200" height="675"/>
+						<img src="images/cache/b_main_cross_2.png" width="1200" height="675"/>
 						<article><br>Aim here at the yellow scaffolding, above the right side of the fourth window. Run briefly and normal throw.</article>
-						<img src="images/cache/b-main-cross_3.png" width="1200" height="675"/>
+						<img src="images/cache/b_main_cross_3.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/b-main-cross_final.png" width="1200" height="675"/>
+						<img src="images/cache/b_main_cross_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
 						<h3 id="sun-room-tree" class="major">Tree from sun room</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<article>Go to sun room and hop up on this corner here.</article>
+						<img src="images/cache/sun_room_tree_1.png" width="1200" height="675"/>
+						<article><br>Aim at this dot here. Normal throw.</article>
+						<img src="images/cache/sun_room_tree_2.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/sun_room_tree_final.png" width="1200" height="675"/>
+						<article><a href="#top">Jump to top of page</a></article>
+					</div>
+
+					<div class="inner">
+						<h3 id="alternative-tree" class="major">Alternative tree</h3>
+						<article>Go near the entrance of B site about here.</article>
+						<img src="images/cache/alternative_tree_1.png" width="1200" height="675"/>
+						<article><br>Aim your crosshair here, briefly run and throw (when you throw, your crosshair should be at the top corner of the sign, not when you start running)</article>
+						<img src="images/cache/alternative_tree_2.png" width="1200" height="675"/>
+						<article><br>Lands here</article>
+						<img src="images/cache/alternative_tree_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<h3 id="heaven" class="major">Heaven</h3>
+						<article>Go to B main here.</article>
+						<img src="images/cache/heaven_1.png" width="1200" height="675"/>
+						<article><br>Line up like so and aim your crosshair about here. Run briefly and throw.</article>
+						<img src="images/cache/heaven_2.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/heaven_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<h3 id="truck-a-main" class="major">A main from truck</h3>
+						<article>Go to truck and line up with the middle of this metal part here.</article>
+						<img src="images/cache/truck_a_main_1.png" width="1200" height="675"/>
+						<article><br>Aim in the middle of the beam here. Normal throw.</article>
+						<img src="images/cache/truck_a_main_2.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/truck_a_main_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<h3 id="fence-a-main" class="major">A main from fence</h3>
+						<article>Go to fence on A site.</article>
+						<img src="images/cache/fence_a_main_1.png" width="1200" height="675"/>
+						<article><br>Line up against the corner here.</article>
+						<img src="images/cache/fence_a_main_2.png" width="1200" height="675"/>
+						<article><br>Aim at the forklift here. JUMP throw.</article>
+						<img src="images/cache/fence_a_main_3.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/fence_a_main_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<h3 id="mid-garage" class="major">Mid garage</h3>
+						<article>Go to Z.</article>
+						<img src="images/cache/mid_garage_1.png" width="1200" height="675"/>
+						<article><br>Line up with the grate a little over from the left side, about right here.</article>
+						<img src="images/cache/mid_garage_2.png" width="1200" height="675"/>
+						<article><br>Aim through the window on the left side here. Normal throw.</article>
+						<img src="images/cache/mid_garage_3.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/mid_garage_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
+						<h3 id="heaven-shallow-b-main" class="major">Shallow B main from heaven</h3>
+						<article>Go to heaven.</article>
+						<img src="images/cache/heaven_shallow_b_main_1.png" width="1200" height="675"/>
+						<article><br>Line up against the right side of the doorway in the middle.</article>
+						<img src="images/cache/heaven_shallow_b_main_2.png" width="1200" height="675"/>
+						<article><br>Aim at the top-left corner of the wooden sign. Normal throw.</article>
+						<img src="images/cache/heaven_shallow_b_main_3.png" width="1200" height="675"/>
 						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
+						<img src="images/cache/heaven_shallow_b_main_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
 					
 					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
+						<h3 id="heaven-checkers" class="major">Checkers from heaven</h3>
 						<article>In T-spawn, find the third white stripe from the right.</article>
 						<img src="images/cache/z_1.png" width="1200" height="675"/>
 						<article><br>In T-spawn, find the third white stripe from the right.</article>
@@ -177,20 +212,7 @@
 						<img src="images/cache/z_final.png" width="1200" height="675"/>
 						<article><a href="#top">Jump to top of page</a></article>
 					</div>
-					
-					<div class="inner">
-						<h3 id="z" class="major">Z</h3>
-						<article>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_1.png" width="1200" height="675"/>
-						<article><br>In T-spawn, find the third white stripe from the right.</article>
-						<img src="images/cache/z_2.png" width="1200" height="675"/>
-						<article><br>Now stand back, run forward, aim at the top of the window, and JUMP throw.</article>
-						<img src="images/cache/z_3.png" width="1200" height="675"/>
-						<article><br>Lands here</article>
-						<img src="images/cache/z_final.png" width="1200" height="675"/>
-						<article><a href="#top">Jump to top of page</a></article>
-					</div>
-					
+
 				</div>
 		</section>
 	</body>
